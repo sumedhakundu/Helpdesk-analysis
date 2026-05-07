@@ -1,0 +1,6 @@
+customer_segment,total_tickets,avg_resolution_hours
+small_business,20203,45.37
+individual,20033,44.27
+enterprise,20030,45.79
+education,19958,44.44
+non_profit,19776,45.18
